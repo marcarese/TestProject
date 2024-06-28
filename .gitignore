@@ -1,0 +1,5 @@
+#/random.pdf  This will ignore just this file in git. Git will not track this file
+
+
+*.pdf
+#Git will not track ALL pdf files in this project
